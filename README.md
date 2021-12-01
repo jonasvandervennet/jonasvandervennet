@@ -4,7 +4,7 @@ I am a Computer Science engineering graduate from Ghent, Belgium. I am fascinate
 
 ### Interesting repositories
 
-- [<img src="https://adventofcode.com/favicon.png" height="20em" width="20em" alt="AoC" title="AoC"/>](https://adventofcode.com/) Advent Of Code: [2015](https://github.com/jonasvandervennet/advent-of-code-2015) (Rust), [2016](https://github.com/jonasvandervennet/advent-of-code-2016) (Rust), [2018-2019](https://github.com/jonasvandervennet/adventofcode) (Python), [2020](https://github.com/jonasvandervennet/advent-of-code-2020) (Rust), [2020](https://github.com/jonasvandervennet/advent-of-code-2021) (Rust)
+- [<img src="https://adventofcode.com/favicon.png" height="20em" width="20em" alt="AoC" title="AoC"/>](https://adventofcode.com/) Advent Of Code: [2015](https://github.com/jonasvandervennet/advent-of-code-2015) (Rust), [2016](https://github.com/jonasvandervennet/advent-of-code-2016) (Rust), [2018-2019](https://github.com/jonasvandervennet/adventofcode) (Python), [2020](https://github.com/jonasvandervennet/advent-of-code-2020) (Rust), [2021](https://github.com/jonasvandervennet/advent-of-code-2021) (Rust)
 - [<img src="https://raw.githubusercontent.com/jonasvandervennet/voltorb-flip/master/Resources/voltorb.png" height="20em" width="20em" alt="Voltorb icon" title="Voltorb Flip"/>](https://github.com/jonasvandervennet/voltorb-flip) An [assistant for the *Voltorb Flip* minigame](https://github.com/jonasvandervennet/voltorb-flip) in Pokémon SoulSilver 
 - simple Rust [hexdump utility](https://github.com/jonasvandervennet/hexdump-rs)
 - A [small collection of Minecraft Spigot plugins](https://github.com/jonasvandervennet/MCpluginsuite) I have created for a private server with friends:
