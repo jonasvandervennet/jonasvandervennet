@@ -1,7 +1,3 @@
-### Hello there!
-
-I am a Computer Science engineering graduate from Ghent, Belgium. I am fascinated by interesting software archtitectures and puzzles. Have a look!
-
 ### Interesting repositories
 
 - [<img src="https://adventofcode.com/favicon.png" height="20em" width="20em" alt="AoC" title="AoC"/>](https://adventofcode.com/) Advent Of Code: [2015](https://github.com/jonasvandervennet/advent-of-code-2015) (Rust), [2016](https://github.com/jonasvandervennet/advent-of-code-2016) (Rust), [2018-2019](https://github.com/jonasvandervennet/adventofcode) (Python), [2020](https://github.com/jonasvandervennet/advent-of-code-2020) (Rust), [2021](https://github.com/jonasvandervennet/advent-of-code-2021) (Rust)
